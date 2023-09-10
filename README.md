@@ -1,9 +1,5 @@
 # Life Insurance Price Prediction
 
-<p align="center">
-:warning: :warning: :warning: EM CONSTRUÇÃO :warning: :warning: :warning:
-</p>
-
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/life_insurance_price_prediction_portuguese) para Português-BR_   
 <br/>
 
@@ -15,8 +11,8 @@
 ## About the project
 This project had the central goal of developing an algorithm capable of predicting the cost of health insurance using machine learning. The Pandas Profiling and PyCaret libraries were used to assist in model construction with the aim of obtaining the best and most efficient results possible. By generating 19 models using different regression algorithms, and evaluating them based on the Coefficient of Determination, the best model was created using the Gradient Boosting Regressor.
 
-* **[Code File]()**
-* **[Article]()**
+* **[Code File](https://github.com/raffaloffredo/life_insurance_price_prediction/blob/main/%5BLoffredoDS%5D_Life_Insurance_cost_prediction.ipynb)**
+* **[Article]()** :warning: under construction :warning:
 
 <br/>
 
