@@ -12,7 +12,7 @@
 This project had the central goal of developing an algorithm capable of predicting the cost of health insurance using machine learning. The Pandas Profiling and PyCaret libraries were used to assist in model construction with the aim of obtaining the best and most efficient results possible. By generating 19 models using different regression algorithms, and evaluating them based on the Coefficient of Determination, the best model was created using the Gradient Boosting Regressor.
 
 * **[Code File](https://github.com/raffaloffredo/life_insurance_price_prediction/blob/main/%5BLoffredoDS%5D_Life_Insurance_cost_prediction.ipynb)**
-* **[Article]()** :warning: under construction :warning:
+* **[Article](https://medium.com/@loffredo.ds/how-to-use-pandas-profiling-and-pycaret-to-predict-life-insurance-cost-prices-7a4ff1623e0f)**
 
 <br/>
 
